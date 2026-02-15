@@ -1,272 +1,179 @@
 #EXTM3U
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA (FHD) (HEVC)" tvg-logo=",SP: ES: M+ LALIGA (FHD) (HEVC)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA (FHD) (HEVC)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/667478
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA (FHD)" tvg-logo=",SP: ES: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/667477
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LALIGA" tvg-logo=",ES: (HD) M+ LALIGA
-https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LALIGA,ES: (HD) M+ LALIGA
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/5758
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) (REPUESTO) M+ LALIGA" tvg-logo=",ES: (HD) (REPUESTO) M+ LALIGA
-https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) (REPUESTO) M+ LALIGA,ES: (HD) (REPUESTO) M+ LALIGA
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/54535
-#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo=",ES: (FHD) M+ LALIGA
-https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"
+#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) M+ LALIGA,ES: (FHD) M+ LALIGA
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/54532
-#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) REPUESTO) M+ LALIGA" tvg-logo=",ES: (FHD) REPUESTO) M+ LALIGA
-https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"
+#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) REPUESTO) M+ LALIGA,ES: (FHD) REPUESTO) M+ LALIGA
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/57362
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (Movil)" tvg-logo=",SP: LALIGA: M+ LALIGA (Movil)
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (Movil)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/415806
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA SD" tvg-logo=",SP: LALIGA: M+ LALIGA SD
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/414699
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (HD)" tvg-logo=",SP: LALIGA: M+ LALIGA (HD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250861
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (FHD)" tvg-logo=",SP: LALIGA: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/414700
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (HD)" tvg-logo=",SP: LALIGA: M+ LALIGA (HD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823508
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (HD)" tvg-logo=",SP: LALIGA: M+ LALIGA (HD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823509
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (HD)" tvg-logo=",SP: LALIGA: M+ LALIGA (HD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823510
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (FHD)" tvg-logo=",SP: LALIGA: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823511
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (FHD)" tvg-logo=",SP: LALIGA: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823512
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (FHD)" tvg-logo=",SP: LALIGA: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823513
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (FHD)" tvg-logo=",SP: LALIGA: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/835298
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA (FHD)" tvg-logo=",SP: LALIGA: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/835301
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA 1" tvg-logo=",SP: LALIGA: M+ LALIGA 1
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA 1
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250868
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA 2" tvg-logo=",SP: LALIGA: M+ LALIGA 2
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA 2
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250871
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA 3" tvg-logo=",SP: LALIGA: M+ LALIGA 3
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA 3
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250873
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: M+ LALIGA 3 (FHD)" tvg-logo=",SP: LALIGA: M+ LALIGA 3 (FHD)
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: M+ LALIGA 3 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250874
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: M+ LALIGA 4" tvg-logo=",SP: La Liga: M+ LALIGA 4
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: La Liga: M+ LALIGA 4
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250875
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: M+ LALIGA 5" tvg-logo=",SP: La Liga: M+ LALIGA 5
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: La Liga: M+ LALIGA 5
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250877
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: M+ LALIGA 6" tvg-logo=",SP: La Liga: M+ LALIGA 6
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: La Liga: M+ LALIGA 6
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250878
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: M+ LALIGA 7" tvg-logo=",SP: La Liga: M+ LALIGA 7
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: La Liga: M+ LALIGA 7
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250879
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: M+ LALIGA 8" tvg-logo=",SP: La Liga: M+ LALIGA 8
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: La Liga: M+ LALIGA 8
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250880
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: M+ LALIGA 9" tvg-logo=",SP: La Liga: M+ LALIGA 9
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: La Liga: M+ LALIGA 9
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250881
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA F(HD)" tvg-logo=",SP: ES: M+ LALIGA F(HD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA F(HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823517
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA (FHD)" tvg-logo=",SP: ES: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823518
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA (FHD)" tvg-logo=",SP: ES: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823519
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA (FHD)" tvg-logo=",SP: ES: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/835322
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA (FHD)" tvg-logo=",SP: ES: M+ LALIGA (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/835319
-#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV2.es" tvg-name="SP: ES: M+ LALIGA 2 SD" tvg-logo=",SP: ES: M+ LALIGA 2 SD
-https://img.sport-tv-guide.live/images/stations/a1460.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV2.es,SP: ES: M+ LALIGA 2 SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/114
-#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNLALIGA2.es" tvg-name="SP: ES: M+ LALIGA 2 (FHD)" tvg-logo=",SP: ES: M+ LALIGA 2 (FHD)
-https://img.sport-tv-guide.live/images/stations/a1460.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNLALIGA2.es,SP: ES: M+ LALIGA 2 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/60379
-#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV3.es" tvg-name="SP: ES: M+ LALIGA 3 (FHD)" tvg-logo=",SP: ES: M+ LALIGA 3 (FHD)
-https://www.thesportsdb.com/images/media/tvlogo/Movistar_LALIGA_3.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV3.es,SP: ES: M+ LALIGA 3 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/60380
-#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV3.es" tvg-name="SP: ES: M+ LALIGA 3 SD" tvg-logo=",SP: ES: M+ LALIGA 3 SD
-https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV3.es,SP: ES: M+ LALIGA 3 SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/115
-#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV4.es" tvg-name="SP: ES: M+ LALIGA 4 (FHD)" tvg-logo=",SP: ES: M+ LALIGA 4 (FHD)
-https://www.thesportsdb.com/images/media/tvlogo/Movistar_LALIGA_4.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV4.es,SP: ES: M+ LALIGA 4 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/126148
-#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV4.es" tvg-name="SP: ES: M+ LALIGA 4 SD" tvg-logo=",SP: ES: M+ LALIGA 4 SD
-https://www.thesportsdb.com/images/media/tvlogo/Movistar_LALIGA_4.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV4.es,SP: ES: M+ LALIGA 4 SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/126147
-#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV5.es" tvg-name="SP: ES: M+ LALIGA 5 SD" tvg-logo=",SP: ES: M+ LALIGA 5 SD
-https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_5.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV5.es,SP: ES: M+ LALIGA 5 SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/126149
-#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV6.es" tvg-name="SP: ES: M+ LALIGA 6 SD" tvg-logo=",SP: ES: M+ LALIGA 6 SD
-https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV6.es,SP: ES: M+ LALIGA 6 SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127862
-#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV7.es" tvg-name="SP: ES: M+ LALIGA 7 SD" tvg-logo=",SP: ES: M+ LALIGA 7 SD
-https://www.thesportsdb.com/images/media/channel/tvlogo/qlw1d81621074447.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV7.es,SP: ES: M+ LALIGA 7 SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127863
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 8 SD" tvg-logo=",SP: ES: M+ LALIGA 8 SD
-https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 8 SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127864
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 9 SD" tvg-logo=",SP: ES: M+ LALIGA 9 SD
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/movistar-deportes.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 9 SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127865
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 1" tvg-logo=",SP: ES: M+ LALIGA 1
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 1
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044191
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 2" tvg-logo=",SP: ES: M+ LALIGA 2
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 2
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044192
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 3" tvg-logo=",SP: ES: M+ LALIGA 3
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 3
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044193
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 4" tvg-logo=",SP: ES: M+ LALIGA 4
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 4
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044194
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 5" tvg-logo=",SP: ES: M+ LALIGA 5
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 5
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044195
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 6" tvg-logo=",SP: ES: M+ LALIGA 6
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 6
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044196
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 7" tvg-logo=",SP: ES: M+ LALIGA 7
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 7
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044197
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 8" tvg-logo=",SP: ES: M+ LALIGA 8
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 8
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044198
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 9" tvg-logo=",SP: ES: M+ LALIGA 9
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 9
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044199
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 10" tvg-logo=",SP: ES: M+ LALIGA 10
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 10
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044200
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 11" tvg-logo=",SP: ES: M+ LALIGA 11
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 11
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044201
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 12" tvg-logo=",SP: ES: M+ LALIGA 12
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 12
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044202
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 13" tvg-logo=",SP: ES: M+ LALIGA 13
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 13
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044203
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 14" tvg-logo=",SP: ES: M+ LALIGA 14
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 14
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044204
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 15" tvg-logo=",SP: ES: M+ LALIGA 15
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 15
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044205
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 16" tvg-logo=",SP: ES: M+ LALIGA 16
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 16
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044206
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 17" tvg-logo=",SP: ES: M+ LALIGA 17
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 17
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044207
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 18" tvg-logo=",SP: ES: M+ LALIGA 18
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 18
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044208
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 19" tvg-logo=",SP: ES: M+ LALIGA 19
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 19
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044209
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M+ LALIGA 20" tvg-logo=",SP: ES: M+ LALIGA 20
-https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: ES: M+ LALIGA 20
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044210
-#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV2.es" tvg-name="SP: ES: M+ LALIGA 2 (HD)" tvg-logo=",SP: ES: M+ LALIGA 2 (HD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/movistar-deportes.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV2.es,SP: ES: M+ LALIGA 2 (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1145379
-#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV3.es" tvg-name="SP: ES: M+ LALIGA 3 (HD)" tvg-logo=",SP: ES: M+ LALIGA 3 (HD)
-https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png"
-#EXTINF:-1 tvg-id="LALIGATVBar.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo=",ES: (FHD) M+ LALIGA TV BAR
-https://docdog.top/logo/countries/spain/movistar/LALIGAbares.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LALIGATV3.es,SP: ES: M+ LALIGA 3 (HD)
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/5661
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo=",ES: (FHD) M+ LALIGA TV BAR
-https://docdog.top/logo/countries/spain/movistar/LALIGAbares.png"
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: LALIGA BAR 2 (HD)" tvg-logo=",SP: ES: LALIGA BAR 2 (HD)
-https://www.movistarplus.es/recorte/m-NEO/canal/LIGBA1.png"
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGAbares.png" group-title="ES | LALIGA BAR",ES: (FHD) M+ LALIGA TV BAR
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669595
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: LALIGA BAR 3 (HD)" tvg-logo=",SP: ES: LALIGA BAR 3 (HD)
-https://www.movistarplus.es/recorte/m-NEO/canal/LIGBA2.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: LALIGA BAR 3 (HD)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBA2.png" group-title="ES | LALIGA BAR",ES: LALIGA BAR 3 (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669596
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: LALIGA BAR 1 (HD)" tvg-logo=",SP: ES: LALIGA BAR 1 (HD)
-https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: LALIGA BAR 1 (HD)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="ES | LALIGA BAR",ES: LALIGA BAR 1 (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669591
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo=",ES: (HD) DAZN LALIGA
-https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA,ES: (HD) DAZN LALIGA
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/25125
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) REPUESTO) DAZN LALIGA" tvg-logo=",ES: (HD) REPUESTO) DAZN LALIGA
-https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) REPUESTO) DAZN LALIGA,ES: (HD) REPUESTO) DAZN LALIGA
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/57344
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) REPUESTO2) DAZN LALIGA" tvg-logo=",ES: (HD) REPUESTO2) DAZN LALIGA
-https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) REPUESTO2) DAZN LALIGA,ES: (HD) REPUESTO2) DAZN LALIGA
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/63431
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo=",ES: (FHD) DAZN LALIGA
-https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN LALIGA,ES: (FHD) DAZN LALIGA
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/54668
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) REPUESTO) DAZN LALIGA" tvg-logo=",ES: (FHD) REPUESTO) DAZN LALIGA
-https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) REPUESTO) DAZN LALIGA,ES: (FHD) REPUESTO) DAZN LALIGA
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/57359
-#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo=",ES: DAZN LALIGA 2
-https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png"
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2,ES: DAZN LALIGA 2
 http://norqhwkyfzw.top:8080/9571738698775670/911046439a8e/57476
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 1 SD" tvg-logo=",SP: LALIGA: DAZN LALIGA 1 SD
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 1 SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/414705
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 1 (HD)" tvg-logo=",SP: LALIGA: DAZN LALIGA 1 (HD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 1 (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/446089
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 1 (HD)" tvg-logo=",SP: LALIGA: DAZN LALIGA 1 (HD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 1 (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823322
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 1 (HD)" tvg-logo=",SP: LALIGA: DAZN LALIGA 1 (HD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 1 (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823323
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 1 (HD)" tvg-logo=",SP: LALIGA: DAZN LALIGA 1 (HD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 1 (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823324
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 1 (FHD)" tvg-logo=",SP: LALIGA: DAZN LALIGA 1 (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 1 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/414706
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 1 (FHD)" tvg-logo=",SP: LALIGA: DAZN LALIGA 1 (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 1 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823325
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 1 (FHD)" tvg-logo=",SP: LALIGA: DAZN LALIGA 1 (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 1 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823326
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 1 (FHD)" tvg-logo=",SP: LALIGA: DAZN LALIGA 1 (FHD)
-http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 1 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823327
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 2 SD" tvg-logo=",SP: LALIGA: DAZN LALIGA 2 SD
-https://r2.thesportsdb.com/images/media/channel/logo/evu0at1692970765.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 2 SD
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/414707
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: DAZN LALIGA 2 (FHD)" tvg-logo=",SP: LALIGA: DAZN LALIGA 2 (FHD)
-https://r2.thesportsdb.com/images/media/channel/logo/evu0at1692970765.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: DAZN LALIGA 2 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/414708
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: LALIGA: Dazn 2 (HD)" tvg-logo=",SP: LALIGA: Dazn 2 (HD)
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id=",SP: LALIGA: Dazn 2 (HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250850
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: Dazn 3 (HD)" tvg-logo=",SP: La Liga: Dazn 3 (HD)
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: Dazn 3 (HD)" tvg-logo="http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png" group-title="# La Liga ⚽",SP: La Liga: Dazn 3 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250852
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: Dazn 4 F(HD)" tvg-logo=",SP: La Liga: Dazn 4 F(HD)
-http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png"
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: Dazn 4 F(HD)" tvg-logo="http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png" group-title="# La Liga ⚽",SP: La Liga: Dazn 4 F(HD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250854
