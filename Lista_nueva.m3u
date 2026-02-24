@@ -176,4 +176,1337 @@ http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250850
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: Dazn 3 (HD)" tvg-logo="http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png" group-title="# La Liga ⚽",SP: La Liga: Dazn 3 (FHD)
 http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250852
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: La Liga: Dazn 4 F(HD)" tvg-logo="http://logos.ti7an.net/logos/ligas_deportivas/LALIGA.png" group-title="# La Liga ⚽",SP: La Liga: Dazn 4 F(HD)
-http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250854
+http:#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: ESPN 1 HD (LAT)" tvg-logo="http://logos.ti7an.net/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="# UEFA Champions League ⚽ -  ⚽ Europa League ⚽",SP: UEFA: ESPN 1 HD (LAT)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/232314
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: ESPN 2 HD (LAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title="# UEFA Champions League ⚽ -  ⚽ Europa League ⚽",SP: UEFA: ESPN 2 HD (LAT)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/232315
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: ESPN 3 HD (LAT)" tvg-logo="http://logos.ti7an.net/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="# UEFA Champions League ⚽ -  ⚽ Europa League ⚽",SP: UEFA: ESPN 3 HD (LAT)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/232316
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: LaLiga TV Bar HD (ES)" tvg-logo="http://logos.ti7an.net/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="# UEFA Champions League ⚽ -  ⚽ Europa League ⚽",SP: UEFA: LaLiga TV Bar HD (ES)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/234560
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: TUDN HD (US)" tvg-logo="http://logos.ti7an.net/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="# UEFA Champions League ⚽ -  ⚽ Europa League ⚽",SP: UEFA: TUDN HD (US)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/232292
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: M. Liga de Campeones FHD (VIP)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="# UEFA Champions League ⚽ -  ⚽ Europa League ⚽",SP: UEFA: M. Liga de Campeones FHD (VIP)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/413298
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: M. Liga de Campeones HD (VIP)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="# UEFA Champions League ⚽ -  ⚽ Europa League ⚽",SP: UEFA: M. Liga de Campeones HD (VIP)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/413297//tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250854
+#EXTINF:-1 xm-ott="{ID}" tvg-id="24Horas.es" tvg-name="ES: 24h SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/24h.png" group-title="EU| España TDT",ES: 24h SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/115702
+#EXTINF:-1 xm-ott="{ID}" tvg-id="24Horas.es" tvg-name="ES: 24h HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espa%c3%b1a_TDT/24h.png" group-title="EU| España TDT",ES: 24h HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/557631
+#EXTINF:-1 xm-ott="{ID}" tvg-id="24Horas.es" tvg-name="ES: 24h FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espa%c3%b1a_TDT/24h.png" group-title="EU| España TDT",ES: 24h FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/450681
+#EXTINF:-1 xm-ott="{ID}" tvg-id="TVEInternacional.es" tvg-name="ES: TVE Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" group-title="EU| España TDT",ES: TVE Internacional
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/27229
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LA1.es" tvg-name="ES: La 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png" group-title="EU| España TDT",ES: La 1 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/102
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LA1.es" tvg-name="ES: La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png" group-title="EU| España TDT",ES: La 1 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3071
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LA1.es" tvg-name="ES: La 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png" group-title="EU| España TDT",ES: La 1 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/103
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La 1 UHD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png" group-title="EU| España TDT",ES: La 1 UHD 4K
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/923707
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png" group-title="EU| España TDT",ES: La 2 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/106
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LA2.es" tvg-name="ES: La 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png" group-title="EU| España TDT",ES: La 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/662375
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LA2.es" tvg-name="ES: La 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png" group-title="EU| España TDT",ES: La 2 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/107
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Antena3.es" tvg-name="ES: Antena 3 SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/Antena_3.png" group-title="EU| España TDT",ES: Antena 3 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/36
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Antena3.es" tvg-name="ES: Antena 3 HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/Antena_3.png" group-title="EU| España TDT",ES: Antena 3 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3072
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Antena3.es" tvg-name="ES: Antena 3 FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/Antena_3.png" group-title="EU| España TDT",ES: Antena 3 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/35
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Antena 3 Internacional SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" group-title="EU| España TDT",ES: Antena 3 Internacional SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/24433
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Cuatro.es" tvg-name="ES: Cuatro HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/Cuatro.png" group-title="EU| España TDT",ES: Cuatro HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3073
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Cuatro.es" tvg-name="ES: Cuatro FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/Cuatro.png" group-title="EU| España TDT",ES: Cuatro FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/144
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Telecinco.es" tvg-name="ES: Telecinco SD" tvg-logo="http://logos.ti7an.net/logos/spain/Telecinco.png" group-title="EU| España TDT",ES: Telecinco SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/75
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Telecinco.es" tvg-name="ES: Telecinco HD" tvg-logo="http://logos.ti7an.net/logos/spain/Telecinco.png" group-title="EU| España TDT",ES: Telecinco HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3074
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Telecinco.es" tvg-name="ES: Telecinco FHD" tvg-logo="http://logos.ti7an.net/logos/spain/Telecinco.png" group-title="EU| España TDT",ES: Telecinco FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/77
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LaSexta.es" tvg-name="ES: La Sexta SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png" group-title="EU| España TDT",ES: La Sexta SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/104
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LaSexta.es" tvg-name="ES: La Sexta HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png" group-title="EU| España TDT",ES: La Sexta HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3075
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LaSexta.es" tvg-name="ES: La Sexta FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png" group-title="EU| España TDT",ES: La Sexta FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/105
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC Drama SD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="EU| España Entretenimiento",ES: BBC Drama SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912883
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC Drama HD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="EU| España Entretenimiento",ES: BBC Drama HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912882
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC Drama FHD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="EU| España Entretenimiento",ES: BBC Drama FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912881
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC Food SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="EU| España Entretenimiento",ES: BBC Food SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912886
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC Food HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="EU| España Entretenimiento",ES: BBC Food HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912885
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC Food FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="EU| España Entretenimiento",ES: BBC Food FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912884
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC History SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="EU| España Entretenimiento",ES: BBC History SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912889
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC History HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="EU| España Entretenimiento",ES: BBC History HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912888
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC History FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="EU| España Entretenimiento",ES: BBC History FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912887
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC Top Gear SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="EU| España Entretenimiento",ES: BBC Top Gear SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912892
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC Top Gear HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="EU| España Entretenimiento",ES: BBC Top Gear HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912891
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: BBC Top Gear FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="EU| España Entretenimiento",ES: BBC Top Gear FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/912890
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Mega.es" tvg-name="ES: MEGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="EU| España Entretenimiento",ES: MEGA SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/132
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Mega.es" tvg-name="ES: MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="EU| España Entretenimiento",ES: MEGA HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/23861
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Mega.es" tvg-name="ES: MEGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="EU| España Entretenimiento",ES: MEGA FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/419904
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Neox.es" tvg-name="ES: Neox SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="EU| España Entretenimiento",ES: Neox SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/56
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Neox.es" tvg-name="ES: Neox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="EU| España Entretenimiento",ES: Neox HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/579138
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Neox.es" tvg-name="ES: Neox FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="EU| España Entretenimiento",ES: Neox FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/11150
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Nova.es" tvg-name="ES: Nova SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Nova.png" group-title="EU| España Entretenimiento",ES: Nova SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/60
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Nova.es" tvg-name="ES: Nova HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Nova.png" group-title="EU| España Entretenimiento",ES: Nova HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/579151
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Nova.es" tvg-name="ES: Nova FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Nova.png" group-title="EU| España Entretenimiento",ES: Nova FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402014
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Odisea.es" tvg-name="ES: Odisea SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="EU| España Entretenimiento",ES: Odisea SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/18
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Odisea" tvg-name="ES: Odisea HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="EU| España Entretenimiento",ES: Odisea HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/709430
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Odisea.es" tvg-name="ES: Odisea FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="EU| España Entretenimiento",ES: Odisea FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/494852
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Star TVE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="EU| España Entretenimiento",ES: Star TVE SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/25145
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Star TVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="EU| España Entretenimiento",ES: Star TVE FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/25146
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BEMAD.es" tvg-name="ES: BeMad SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BeMad_Icon.svg/800px-BeMad_Icon.svg.png" group-title="EU| España Entretenimiento",ES: BeMad SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/34566
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BEMAD.es" tvg-name="ES: BeMad HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BeMad_Icon.svg/800px-BeMad_Icon.svg.png" group-title="EU| España Entretenimiento",ES: BeMad HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/578932
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BEMAD.es" tvg-name="ES: BeMad FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BeMad_Icon.svg/800px-BeMad_Icon.svg.png" group-title="EU| España Entretenimiento",ES: BeMad FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/15239
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Divinity.es" tvg-name="ES: Divinity SD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/divinity-vector-logo.png" group-title="EU| España Entretenimiento",ES: Divinity SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/157
+#EXTINF:-1 xm-ott="{ID}" tvg-id="1+1 Internacional.es" tvg-name="ES: Divinity HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="EU| España Entretenimiento",ES: Divinity HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/709422
+#EXTINF:-1 xm-ott="{ID}" tvg-id="1+1 Internacional.es" tvg-name="ES: Divinity HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="EU| España Entretenimiento",ES: Divinity HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/709421
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Dkiss SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1200px-DKiss.svg.png" group-title="EU| España Entretenimiento",ES: Dkiss SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/159
+#EXTINF:-1 xm-ott="{ID}" tvg-id="1+1 Internacional.es" tvg-name="ES: Dkiss FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1280px-DKiss.svg.png" group-title="EU| España Entretenimiento",ES: Dkiss FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/709429
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DiscoveryMax.es" tvg-name="ES: DMAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="EU| España Entretenimiento",ES: DMAX SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/158
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DMAX" tvg-name="ES: DMAX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="EU| España Entretenimiento",ES: DMAX HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/709428
+#EXTINF:-1 xm-ott="{ID}" tvg-id="1+1 Internacional.es" tvg-name="ES: DMAX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="EU| España Entretenimiento",ES: DMAX FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/709427
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Energy.es" tvg-name="ES: Energy SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Energy.png" group-title="EU| España Entretenimiento",ES: Energy SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/160
+#EXTINF:-1 xm-ott="{ID}" tvg-id="1+1 Internacional.es" tvg-name="ES: Energy HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="EU| España Entretenimiento",ES: Energy HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/709424
+#EXTINF:-1 xm-ott="{ID}" tvg-id="1+1 Internacional.es" tvg-name="ES: Energy FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="EU| España Entretenimiento",ES: Energy FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/709423
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: FDF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="EU| España Entretenimiento",ES: FDF SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/165
+#EXTINF:-1 xm-ott="{ID}" tvg-id="1+1 Internacional.es" tvg-name="ES: FDF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="EU| España Entretenimiento",ES: FDF HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/709426
+#EXTINF:-1 xm-ott="{ID}" tvg-id="1+1 Internacional.es" tvg-name="ES: FDF FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="EU| España Entretenimiento",ES: FDF FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/709425
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Discovery.es" tvg-name="ES: Discovery Channel SD" tvg-logo="https://www.pngkey.com/png/full/719-7191160_logo-discovery-channel-png-discovery-channel-logo.png" group-title="EU| España Entretenimiento",ES: Discovery Channel SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/152
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Discovery.es" tvg-name="ES: Discovery Channel FHD" tvg-logo="https://www.pngkey.com/png/full/719-7191160_logo-discovery-channel-png-discovery-channel-logo.png" group-title="EU| España Entretenimiento",ES: Discovery Channel FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/234747
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Historia.es" tvg-name="ES: Historia SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/History.png" group-title="EU| España Entretenimiento",ES: Historia SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/98
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Historia.es" tvg-name="ES: Historia HD" tvg-logo="https://toppng.com/uploads/preview/svg-history-channel-logo-11563164932b5ivkmf3wa.png" group-title="EU| España Entretenimiento",ES: Historia HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/580631
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Historia.es" tvg-name="ES: Historia FHD" tvg-logo="https://toppng.com/uploads/preview/svg-history-channel-logo-11563164932b5ivkmf3wa.png" group-title="EU| España Entretenimiento",ES: Historia FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/11154
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NationalGeographic.es" tvg-name="ES: NatGeo SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/National-Geographic.png" group-title="EU| España Entretenimiento",ES: NatGeo SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/54
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NationalGeographic.es" tvg-name="ES: NatGeo HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/National-Geographic.png" group-title="EU| España Entretenimiento",ES: NatGeo HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3043
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NationalGeographic.es" tvg-name="ES: NatGeo FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/National-Geographic.png" group-title="EU| España Entretenimiento",ES: NatGeo FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/55
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NatGeoWild.es" tvg-name="ES: NatGeo Wild SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Nat_Geo_Wild.png" group-title="EU| España Entretenimiento",ES: NatGeo Wild SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/51
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NatGeoWild.es" tvg-name="ES: NatGeo Wild HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Nat_Geo_Wild.png" group-title="EU| España Entretenimiento",ES: NatGeo Wild HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3042
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NatGeoWild.es" tvg-name="ES: NatGeo Wild FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Nat_Geo_Wild.png" group-title="EU| España Entretenimiento",ES: NatGeo Wild FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/52
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AMCBreak.es" tvg-name="ES: AMC Break SD" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/blaze-espana-vector-logo.png" group-title="EU| España Entretenimiento",ES: AMC Break SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/39
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AMCBreak.es" tvg-name="ES: AMC Break HD" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/blaze-espana-vector-logo.png" group-title="EU| España Entretenimiento",ES: AMC Break HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/578934
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AMCBreak.es" tvg-name="ES: AMC Break FHD" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/blaze-espana-vector-logo.png" group-title="EU| España Entretenimiento",ES: AMC Break FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/234741
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AMCCrime.es" tvg-name="ES: AMC Crime SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/320px-AMC_Crime.svg.png" group-title="EU| España Entretenimiento",ES: AMC Crime SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/234746
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BuenViaje.es" tvg-name="ES: Buen Viaje SD" tvg-logo="https://images.tuamc.tv/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/1ecf19580c53699576f57b5087b103a7_LOGO-BUENVIAJE_V-Color.png" group-title="EU| España Entretenimiento",ES: Buen Viaje SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/602411
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BuenViaje.es" tvg-name="ES: Buen Viaje FHD" tvg-logo="https://images.tuamc.tv/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/1ecf19580c53699576f57b5087b103a7_LOGO-BUENVIAJE_V-Color.png" group-title="EU| España Entretenimiento",ES: Buen Viaje FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/602412
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Calle13.es" tvg-name="ES: Calle 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Calle_13_Universal.png" group-title="EU| España Entretenimiento",ES: Calle 13 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3055
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Calle13.es" tvg-name="ES: Calle 13 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Calle_13_Universal.png" group-title="EU| España Entretenimiento",ES: Calle 13 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/20
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CanalCocina.es" tvg-name="ES: Canal Cocina SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Canal_Cocina.png" group-title="EU| España Entretenimiento",ES: Canal Cocina SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/580623
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CanalCocina.es" tvg-name="ES: Canal Cocina HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Canal_Cocina.png" group-title="EU| España Entretenimiento",ES: Canal Cocina HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/19
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CanalCocina.es" tvg-name="ES: Canal Cocina FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Canal_Cocina.png" group-title="EU| España Entretenimiento",ES: Canal Cocina FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/24143
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CGTNEspanol.es" tvg-name="ES: CGTN En Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="EU| España Entretenimiento",ES: CGTN En Español
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/9981
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ComedyCentral.es" tvg-name="ES: Comedy Central SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Comedy_Central.png" group-title="EU| España Entretenimiento",ES: Comedy Central SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/580611
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ComedyCentral.es" tvg-name="ES: Comedy Central HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Comedy_Central.png" group-title="EU| España Entretenimiento",ES: Comedy Central HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3080
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ComedyCentral.es" tvg-name="ES: Comedy Central FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Comedy_Central.png" group-title="EU| España Entretenimiento",ES: Comedy Central FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/6
+#EXTINF:-1 xm-ott="{ID}" tvg-id="COSMO.es" tvg-name="ES: COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="EU| España Entretenimiento",ES: COSMO HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3079
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DARK.es" tvg-name="ES: DARK SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Dark.png" group-title="EU| España Entretenimiento",ES: DARK SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127259
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DARK.es" tvg-name="ES: DARK FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Dark.png" group-title="EU| España Entretenimiento",ES: DARK FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/494854
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CanalDecasa.es" tvg-name="ES: Decasa SD" tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/canal-decasa-logo-vector.png" group-title="EU| España Entretenimiento",ES: Decasa SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/151
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CanalDecasa.es" tvg-name="ES: Decasa HD" tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/canal-decasa-logo-vector.png" group-title="EU| España Entretenimiento",ES: Decasa HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/34571
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CanalDecasa.es" tvg-name="ES: Decasa FHD" tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/canal-decasa-logo-vector.png" group-title="EU| España Entretenimiento",ES: Decasa FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/442150
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Discovery+ Cocina HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Discovery_mas.png" group-title="EU| España Entretenimiento",ES: Discovery+ Cocina HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/403329
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Discovery+ Hogar HD 24H" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Discovery_Home_&_Health.png" group-title="EU| España Entretenimiento",ES: Discovery+ Hogar HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/445768
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Documentales.es" tvg-name="ES: M. Documentales SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/M.Documentales.jpg" group-title="EU| España Entretenimiento",ES: M. Documentales SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632030
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Documentales.es" tvg-name="ES: M. Documentales HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/M.Documentales.jpg" group-title="EU| España Entretenimiento",ES: M. Documentales HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632031
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Documentales.es" tvg-name="ES: M. Documentales FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/M.Documentales.jpg" group-title="EU| España Entretenimiento",ES: M. Documentales FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632032
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Telemadrid.es" tvg-name="ES: Telemadrid SD" tvg-logo="https://logos-download.com/wp-content/uploads/2019/05/Telemadrid_Logo_old_horizontally.png" group-title="EU| España Entretenimiento",ES: Telemadrid SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/577992
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Telemadrid.es" tvg-name="ES: Telemadrid FHD" tvg-logo="https://logos-download.com/wp-content/uploads/2019/05/Telemadrid_Logo_old_horizontally.png" group-title="EU| España Entretenimiento",ES: Telemadrid FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/27274
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Ten.es" tvg-name="ES: Ten SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/ten-tv-en-directo-online.png" group-title="EU| España Entretenimiento",ES: Ten SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/80
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Accion.es" tvg-name="ES: M. Accion SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="EU| España Cine & Series",ES: M. Accion SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/136
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Accion.es" tvg-name="ES: M. Accion HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="EU| España Cine & Series",ES: M. Accion HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3053
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Accion.es" tvg-name="ES: M. Accion FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="EU| España Cine & Series",ES: M. Accion FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/137
+#EXTINF:-1 xm-ott="{ID}" tvg-id="MovistarCineEspanol.es" tvg-name="ES: M. Estrenos SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Movistar_estrenos.png" group-title="EU| España Cine & Series",ES: M. Estrenos SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/46
+#EXTINF:-1 xm-ott="{ID}" tvg-id="MovistarCineEspanol.es" tvg-name="ES: M. Estrenos HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/M_Cine_N.png" group-title="EU| España Cine & Series",ES: M. Estrenos HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3051
+#EXTINF:-1 xm-ott="{ID}" tvg-id="MovistarCineEspanol.es" tvg-name="ES: M. Estrenos FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Movistar_estrenos.png" group-title="EU| España Cine & Series",ES: M. Estrenos FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/133
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: M. Cine Ñ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MovistarCine%C3%91.png/1200px-MovistarCine%C3%91.png" group-title="EU| España Cine & Series",ES: M. Cine Ñ SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/149
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: M. Cine Ñ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MovistarCine%C3%91.png/1200px-MovistarCine%C3%91.png" group-title="EU| España Cine & Series",ES: M. Cine Ñ HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/582906
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: M. Cine Ñ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MovistarCine%C3%91.png/1200px-MovistarCine%C3%91.png" group-title="EU| España Cine & Series",ES: M. Cine Ñ FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/496224
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Clasicos.es" tvg-name="ES: M. Clasicos SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/M_Cl%c3%a1sicos.png" group-title="EU| España Cine & Series",ES: M. Clasicos SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/444713
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Clasicos.es" tvg-name="ES: M. Clasicos HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/M_Cl%c3%a1sicos.png" group-title="EU| España Cine & Series",ES: M. Clasicos HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/444714
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Clasicos.es" tvg-name="ES: M. Clasicos FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/M_Cl%c3%a1sicos.png" group-title="EU| España Cine & Series",ES: M. Clasicos FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/507144
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Comedia.es" tvg-name="ES: M. Comedia SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="EU| España Cine & Series",ES: M. Comedia SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/140
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Comedia.es" tvg-name="ES: M. Comedia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="EU| España Cine & Series",ES: M. Comedia HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3052
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Comedia.es" tvg-name="ES: M. Comedia FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="EU| España Cine & Series",ES: M. Comedia FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/143
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Drama.es" tvg-name="ES: M. Drama SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="EU| España Cine & Series",ES: M. Drama SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/44
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Drama.es" tvg-name="ES: M. Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="EU| España Cine & Series",ES: M. Drama HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3054
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Drama.es" tvg-name="ES: M. Drama FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="EU| España Cine & Series",ES: M. Drama FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/45
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Indie.es" tvg-name="ES: M. Indie SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Indie-por-M.jpg" group-title="EU| España Cine & Series",ES: M. Indie SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632033
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Indie.es" tvg-name="ES: M. Indie HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Indie-por-M.jpg" group-title="EU| España Cine & Series",ES: M. Indie HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632034
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Indie.es" tvg-name="ES: M. Indie FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Indie-por-M.jpg" group-title="EU| España Cine & Series",ES: M. Indie FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632035
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Originales.es" tvg-name="ES: M. Originales SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="EU| España Cine & Series",ES: M. Originales SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/514906
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Originales.es" tvg-name="ES: M. Originales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="EU| España Cine & Series",ES: M. Originales HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3049
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Originales.es" tvg-name="ES: M. Originales FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="EU| España Cine & Series",ES: M. Originales FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/442148
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Series.es" tvg-name="ES: M. Hits SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/330px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="EU| España Cine & Series",ES: M. Hits SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Series.es" tvg-name="ES: M. Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/330px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="EU| España Cine & Series",ES: M. Hits HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3060
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Series.es" tvg-name="ES: M. Hits FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/330px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="EU| España Cine & Series",ES: M. Hits FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/49
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Hollywood.es" tvg-name="ES: Hollywood SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/Hollywood.png" group-title="EU| España Cine & Series",ES: Hollywood SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/99
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Hollywood.es" tvg-name="ES: Hollywood HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/Hollywood.png" group-title="EU| España Cine & Series",ES: Hollywood HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3056
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Hollywood.es" tvg-name="ES: Hollywood FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/Hollywood.png" group-title="EU| España Cine & Series",ES: Hollywood FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/101
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AMC.es" tvg-name="ES: AMC SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/AMC.png" group-title="EU| España Cine & Series",ES: AMC SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/38
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AMC.es" tvg-name="ES: AMC HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/AMC.png" group-title="EU| España Cine & Series",ES: AMC HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3084
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AMC.es" tvg-name="ES: AMC FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/AMC.png" group-title="EU| España Cine & Series",ES: AMC FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/37
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AXN.es" tvg-name="ES: AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="EU| España Cine & Series",ES: AXN SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/32
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AXN.es" tvg-name="ES: AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="EU| España Cine & Series",ES: AXN HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3082
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AXN.es" tvg-name="ES: AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="EU| España Cine & Series",ES: AXN FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/31
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: AXN Movies SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="EU| España Cine & Series",ES: AXN Movies SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/30
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: AXN Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="EU| España Cine & Series",ES: AXN Movies HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3083
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: A3Cine HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/320px-Atrescine_logo.svg.png" group-title="EU| España Cine & Series",ES: A3Cine HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/697944
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Atreseries.es" tvg-name="ES: A3Series FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="EU| España Cine & Series",ES: A3Series FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/24421
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Atreseries.es" tvg-name="ES: A3Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="EU| España Cine & Series",ES: A3Series HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/112992
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Atreseries.es" tvg-name="ES: A3Series Internacional HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/A3_series_internacional.png" group-title="EU| España Cine & Series",ES: A3Series Internacional HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/36592
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Atreseries.es" tvg-name="ES: A3Series SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="EU| España Cine & Series",ES: A3Series SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/234752
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BOMCine.es" tvg-name="ES: Bom Cine HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1024px-Logo-bom.svg.png" group-title="EU| España Cine & Series",ES: Bom Cine HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/31809
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BOMCine.es" tvg-name="ES: Bom Cine SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1024px-Logo-bom.svg.png" group-title="EU| España Cine & Series",ES: Bom Cine SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/582724
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ParamountChannel.es" tvg-name="ES: Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="EU| España Cine & Series",ES: Paramount Channel
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/61
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Sky Showtime 1 SD" tvg-logo="http://logos.ti7an.net/logos/sweden/SkyShowtime1.png" group-title="EU| España Cine & Series",ES: Sky Showtime 1 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/687638
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Sky Showtime 1 HD" tvg-logo="http://logos.ti7an.net/logos/sweden/SkyShowtime1.png" group-title="EU| España Cine & Series",ES: Sky Showtime 1 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/687637
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Sky Showtime 1 FHD" tvg-logo="http://logos.ti7an.net/logos/sweden/SkyShowtime1.png" group-title="EU| España Cine & Series",ES: Sky Showtime 1 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/687636
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Somos.es" tvg-name="ES: SOMOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo_de_Somos.png" group-title="EU| España Cine & Series",ES: SOMOS SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/309345
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Somos.es" tvg-name="ES: SOMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo_de_Somos.png" group-title="EU| España Cine & Series",ES: SOMOS FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/11162
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LA1.es" tvg-name="ES: Star Channel SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" group-title="EU| España Cine & Series",ES: Star Channel SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/166
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LA1.es" tvg-name="ES: Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" group-title="EU| España Cine & Series",ES: Star Channel HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3077
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LA1.es" tvg-name="ES: Star Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" group-title="EU| España Cine & Series",ES: Star Channel FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/94
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Sundance.es" tvg-name="ES: Sundance TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="EU| España Cine & Series",ES: Sundance TV SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/69
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Sundance.es" tvg-name="ES: Sundance TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="EU| España Cine & Series",ES: Sundance TV HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/234753
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Sundance.es" tvg-name="ES: Sundance TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="EU| España Cine & Series",ES: Sundance TV FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/234754
+#EXTINF:-1 xm-ott="{ID}" tvg-id="SYFY.es" tvg-name="ES: SyFy SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="EU| España Cine & Series",ES: SyFy SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/72
+#EXTINF:-1 xm-ott="{ID}" tvg-id="SYFY.es" tvg-name="ES: SyFy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="EU| España Cine & Series",ES: SyFy HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3069
+#EXTINF:-1 xm-ott="{ID}" tvg-id="SYFY.es" tvg-name="ES: SyFy FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="EU| España Cine & Series",ES: SyFy FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/76
+#EXTINF:-1 xm-ott="{ID}" tvg-id="TCM.es" tvg-name="ES: TCM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="EU| España Cine & Series",ES: TCM SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/73
+#EXTINF:-1 xm-ott="{ID}" tvg-id="TCM.es" tvg-name="ES: TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="EU| España Cine & Series",ES: TCM HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3058
+#EXTINF:-1 xm-ott="{ID}" tvg-id="TCM.es" tvg-name="ES: TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="EU| España Cine & Series",ES: TCM FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/74
+#EXTINF:-1 xm-ott="{ID}" tvg-id="WarnerTV.es" tvg-name="ES: Warner TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/49/Logo_Warner_Bros.svg/230px-Logo_Warner_Bros.svg.png" group-title="EU| España Cine & Series",ES: Warner TV SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/81
+#EXTINF:-1 xm-ott="{ID}" tvg-id="WarnerTV.es" tvg-name="ES: Warner TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/49/Logo_Warner_Bros.svg/230px-Logo_Warner_Bros.svg.png" group-title="EU| España Cine & Series",ES: Warner TV HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3057
+#EXTINF:-1 xm-ott="{ID}" tvg-id="WarnerTV.es" tvg-name="ES: Warner TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/49/Logo_Warner_Bros.svg/230px-Logo_Warner_Bros.svg.png" group-title="EU| España Cine & Series",ES: Warner TV FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/82
+#EXTINF:-1 xm-ott="{ID}" tvg-id="XTRM.es" tvg-name="ES: XTRM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="EU| España Cine & Series",ES: XTRM SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/582721
+#EXTINF:-1 xm-ott="{ID}" tvg-id="XTRM.es" tvg-name="ES: XTRM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="EU| España Cine & Series",ES: XTRM HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/582720
+#EXTINF:-1 xm-ott="{ID}" tvg-id="XTRM.es" tvg-name="ES: XTRM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="EU| España Cine & Series",ES: XTRM FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/9990
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Taquilla 1" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/Taquilla_1.png" group-title="EU| España Cine & Series",ES: Taquilla 1
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/27268
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Taquilla 2" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/Taquilla_2.png" group-title="EU| España Cine & Series",ES: Taquilla 2
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/27269
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Taquilla 3" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/Taquilla_3.png" group-title="EU| España Cine & Series",ES: Taquilla 3
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/27270
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Taquilla 4" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/Taquilla_4.png" group-title="EU| España Cine & Series",ES: Taquilla 4
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/27271
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Taquilla 5" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/TaquillaTv5.png" group-title="EU| España Cine & Series",ES: Taquilla 5
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127260
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Taquilla 6" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/TaquillaTv6.png" group-title="EU| España Cine & Series",ES: Taquilla 6
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127261
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Taquilla 7" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/TaquillaTv7.png" group-title="EU| España Cine & Series",ES: Taquilla 7
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127262
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Taquilla 8" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/TaquillaTv8.png" group-title="EU| España Cine & Series",ES: Taquilla 8
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/564577
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Taquilla 9" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/TaquillaTv9.png" group-title="EU| España Cine & Series",ES: Taquilla 9
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/564578
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Taquilla 10" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_cine_y_series/Taquilla_dies.png" group-title="EU| España Cine & Series",ES: Taquilla 10
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/564579
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: A Punt SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logotip_d%27%C3%80_Punt_M%C3%A8dia_%282017-%29.svg/1200px-Logotip_d%27%C3%80_Punt_M%C3%A8dia_%282017-%29.svg.png" group-title="EU| España Autonómicos",ES: A Punt SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48280
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Alcarria TV SD" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logotipo_web_alcarria_plus.png" group-title="EU| España Autonómicos",ES: Alcarria TV SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/11119
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AragonTV.es" tvg-name="ES: Aragon TV" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/Aragon_tv.png" group-title="EU| España Autonómicos",ES: Aragon TV
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48294
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Bon dia TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png" group-title="EU| España Autonómicos",ES: Bon dia TV SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48361
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Canal 25 Barbastro TV HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/canal_25_barbastro.png" group-title="EU| España Autonómicos",ES: Canal 25 Barbastro TV HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48296
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CanalExtremadura.es" tvg-name="ES: Canal Extremadura TV" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/Canal_Extremadura.png" group-title="EU| España Autonómicos",ES: Canal Extremadura TV
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48423
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Canal Malaga HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/canal_malaga.png" group-title="EU| España Autonómicos",ES: Canal Malaga HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48291
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CanalSurAndalucia.es" tvg-name="ES: Canal Sur Andalucía FHD" tvg-logo="https://seeklogo.com/images/C/Canal_Sur-logo-430F1E7BE3-seeklogo.com.png" group-title="EU| España Autonómicos",ES: Canal Sur Andalucía FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/15
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CanalSurAndalucia.es" tvg-name="Canal Sur Andalucía" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_Sur_Radio.png" group-title="EU| España Autonómicos",Canal Sur Andalucía
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/284902
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CastillalaManchaTV.es" tvg-name="ES: CMM Castilla La Mancha" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/CMM_Castilla_La_Mancha.png" group-title="EU| España Autonómicos",ES: CMM Castilla La Mancha
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/498338
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Diez TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/DiezTV.png" group-title="EU| España Autonómicos",ES: Diez TV FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48452
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ETB1.es" tvg-name="ES: ETB 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ETB_Bogot%C3%A1_logo.svg/1200px-ETB_Bogot%C3%A1_logo.svg.png" group-title="EU| España Autonómicos",ES: ETB 1 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/32154
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ETB1.es" tvg-name="ES: ETB 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ETB_Bogot%C3%A1_logo.svg/1200px-ETB_Bogot%C3%A1_logo.svg.png" group-title="EU| España Autonómicos",ES: ETB 1 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48433
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ETB2.es" tvg-name="ES: ETB 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png" group-title="EU| España Autonómicos",ES: ETB 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/32155
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ETB2.es" tvg-name="ES: ETB 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png" group-title="EU| España Autonómicos",ES: ETB 2 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48434
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: ETB SAT SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/ETB_Sat.png" group-title="EU| España Autonómicos",ES: ETB SAT SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48432
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Hispan TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/2560px-Hispan_Tv_logo.svg.png" group-title="EU| España Autonómicos",ES: Hispan TV SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/9978
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Iberalia 100% Caza FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Iberalia100%25Pesca.png" group-title="EU| España Autonómicos",ES: Iberalia 100% Caza FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/415590
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Iberalia 100% Caza HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Iberalia100%25Pesca.png" group-title="EU| España Autonómicos",ES: Iberalia 100% Caza HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/677673
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Iberalia 100% Caza SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Iberalia100%25Pesca.png" group-title="EU| España Autonómicos",ES: Iberalia 100% Caza SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/677674
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Iberalia 100% Pesca FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Iberalia100%25Pesca.png" group-title="EU| España Autonómicos",ES: Iberalia 100% Pesca FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/415591
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Iberalia 100% Pesca HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Iberalia100%25Pesca.png" group-title="EU| España Autonómicos",ES: Iberalia 100% Pesca HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/677671
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Iberalia 100% Pesca SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/Iberalia100%25Pesca.png" group-title="EU| España Autonómicos",ES: Iberalia 100% Pesca SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/677672
+#EXTINF:-1 xm-ott="{ID}" tvg-id="IberaliaTV.es" tvg-name="ES: Iberalia Original FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/IberaliaOriginal.png" group-title="EU| España Autonómicos",ES: Iberalia Original FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/100
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Iberalia Original HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/IberaliaOriginal.png" group-title="EU| España Autonómicos",ES: Iberalia Original HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/677675
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Iberalia Original SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/IberaliaOriginal.png" group-title="EU| España Autonómicos",ES: Iberalia Original SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/677676
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Interalmeria FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Interalmeria_tv_logo.png" group-title="EU| España Autonómicos",ES: Interalmeria FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48288
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La 7 Castilla y León HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/La_7_Castilla_y_Leon.png" group-title="EU| España Autonómicos",ES: La 7 Castilla y León HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48304
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LaOtra.es" tvg-name="ES: La Otra FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/320px-La_Otra_logo_%282017%29.svg.png" group-title="EU| España Autonómicos",ES: La Otra FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/656927
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LaOtra.es" tvg-name="ES: La Otra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/320px-La_Otra_logo_%282017%29.svg.png" group-title="EU| España Autonómicos",ES: La Otra HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/656905
+#EXTINF:-1 xm-ott="{ID}" tvg-id="LaOtra.es" tvg-name="ES: La Otra SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/320px-La_Otra_logo_%282017%29.svg.png" group-title="EU| España Autonómicos",ES: La Otra SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/656879
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Mira Radio Galega (Only Audio)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/Televisi%c3%b3n_de_Galicia.png" group-title="EU| España Autonómicos",ES: Mira Radio Galega (Only Audio)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/10111
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Negocios TV HD" tvg-logo="" group-title="EU| España Autonómicos",ES: Negocios TV HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/718852
+#EXTINF:-1 xm-ott="{ID}" tvg-id="OndaAlgecirasTV.es" tvg-name="ES: Onda Algeciras TV" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/Onda_Algeciras_TV.png" group-title="EU| España Autonómicos",ES: Onda Algeciras TV
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/51572
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Radio Galega (Only Audio)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/Televisi%c3%b3n_de_Galicia.png" group-title="EU| España Autonómicos",ES: Radio Galega (Only Audio)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/10105
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Radio Galega Musica (Only Audio)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/Televisi%c3%b3n_de_Galicia_America.png" group-title="EU| España Autonómicos",ES: Radio Galega Musica (Only Audio)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48425
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Son Galicia Radio (Only Audio)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/Televisi%c3%b3n_de_Galicia.png" group-title="EU| España Autonómicos",ES: Son Galicia Radio (Only Audio)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/10112
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Televisió de Girona HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/Television_De_Girona.png" group-title="EU| España Autonómicos",ES: Televisió de Girona HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48420
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Calle13.es" tvg-name="ES: Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/1280px-Trece.svg.png" group-title="EU| España Autonómicos",ES: Trece
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/314589
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: TV Galicia 2 HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/Televisi%c3%b3n_de_Galicia_America.png" group-title="EU| España Autonómicos",ES: TV Galicia 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48424
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: TV Galicia HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/Televisi%c3%b3n_de_Galicia.png" group-title="EU| España Autonómicos",ES: TV Galicia HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/10107
+#EXTINF:-1 xm-ott="{ID}" tvg-id="TV3.es" tvg-name="ES: TV3 HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Autonomicos/TV3.png" group-title="EU| España Autonómicos",ES: TV3 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/48306
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Boing.es" tvg-name="ES: Boing HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Boing_2020.png" group-title="EU| España Infantil",ES: Boing HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1017124
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DisneyJunior.es" tvg-name="ES: Disney Junior SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_infantil/Disney_Junior.png" group-title="EU| España Infantil",ES: Disney Junior SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/155
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DisneyJunior.es" tvg-name="ES: Disney Junior HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_infantil/Disney_Junior.png" group-title="EU| España Infantil",ES: Disney Junior HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/582960
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DisneyJunior.es" tvg-name="ES: Disney Junior" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_infantil/Disney_Junior.png" group-title="EU| España Infantil",ES: Disney Junior
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/542103
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NICKJR.es" tvg-name="ES: Nick Jr SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="EU| España Infantil",ES: Nick Jr SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/59
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NICKJR.es" tvg-name="ES: Nick Jr HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="EU| España Infantil",ES: Nick Jr HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/582963
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NICKJR.es" tvg-name="ES: Nick Jr FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="EU| España Infantil",ES: Nick Jr FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/494858
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BabyTV.es" tvg-name="ES: Baby TV SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_infantil/Baby_tv.png" group-title="EU| España Infantil",ES: Baby TV SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/28
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Boing.es" tvg-name="ES: Boing SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Boing_2020.png" group-title="EU| España Infantil",ES: Boing SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/24
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ClanTVE.es" tvg-name="ES: Clan TVE SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_infantil/Clan_TVE.png" group-title="EU| España Infantil",ES: Clan TVE SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/378164
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ClanTVE.es" tvg-name="ES: Clan TVE HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_infantil/Clan_TVE.png" group-title="EU| España Infantil",ES: Clan TVE HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/582917
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ClanTVE.es" tvg-name="ES: Clan TVE FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_infantil/Clan_TVE.png" group-title="EU| España Infantil",ES: Clan TVE FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/378163
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Enfamilia.es" tvg-name="ES: Vin TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Vin_TV_logo.png/250px-Vin_TV_logo.png" group-title="EU| España Infantil",ES: Vin TV SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/494857
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Enfamilia.es" tvg-name="ES: Vin TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Vin_TV_logo.png/250px-Vin_TV_logo.png" group-title="EU| España Infantil",ES: Vin TV FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/494856
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Dreamworks.es" tvg-name="ES: M. Dreamworks SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_infantil/DreamWorks.png" group-title="EU| España Infantil",ES: M. Dreamworks SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/582966
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Dreamworks.es" tvg-name="ES: M. Dreamworks HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_infantil/DreamWorks.png" group-title="EU| España Infantil",ES: M. Dreamworks HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/112997
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Dreamworks.es" tvg-name="ES: M. Dreamworks FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_infantil/DreamWorks.png" group-title="EU| España Infantil",ES: M. Dreamworks FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/112998
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Nickelodeon.es" tvg-name="ES: Nickelodeon SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="EU| España Infantil",ES: Nickelodeon SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/57
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Nickelodeon.es" tvg-name="ES: Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="EU| España Infantil",ES: Nickelodeon HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3070
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Nickelodeon.es" tvg-name="ES: Nickelodeon FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="EU| España Infantil",ES: Nickelodeon FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/58
+#EXTINF:-1 xm-ott="{ID}" tvg-id="MTV.es" tvg-name="ES: MTV España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/MTV_Espa%C3%B1a.png" group-title="EU| España Musica",ES: MTV España
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/53
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Mezzo.es" tvg-name="ES: Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png" group-title="EU| España Musica",ES: Mezzo
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/134
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: De chatarras a carrazos 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: De chatarras a carrazos 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1155498
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Encarcelados HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Encarcelados HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1140877
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Equipo de investigación HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Equipo de investigación HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1140880
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: 091 Alerta Policia HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: 091 Alerta Policia HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/209447
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Acuarios XXL HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Acuarios XXL HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/376516
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Amazonas Clandestino HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Amazonas Clandestino HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/212948
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Amor al primer Click HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Amor al primer Click HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/378209
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Aventura en pelotas XL HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Aventura en pelotas XL HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/443626
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Callejeros 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Callejeros 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/212949
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Callejeros Viajeros 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Callejeros Viajeros 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/212950
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Chapa y pintura HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Chapa y pintura HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/400806
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Chapuzas Extremas HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Chapuzas Extremas HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/431438
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Control de Carreteras HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Control de Carreteras HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/377889
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Diagnósticos extraordinarios HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Diagnósticos extraordinarios HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/400807
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Encantador de Gatos HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: El Encantador de Gatos HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/376517
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Encantador de Perros HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: El Encantador de Perros HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/227918
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Increible Dr Pol HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: El Increible Dr Pol HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/463336
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Jefe Infiltrado 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: El Jefe Infiltrado 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/653698
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Embarazos extraños HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Embarazos extraños HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/400809
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Empeños a lo Bestia HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Empeños a lo Bestia HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/212952
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: En Tierra Hostil HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: En Tierra Hostil HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/114526
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Españoles En El Mundo HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Españoles En El Mundo HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/227919
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Flip o Flop HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Flip o Flop HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/443708
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Flip o Flop Vegas HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Flip o Flop Vegas HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/452620
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Forjado a Fuego HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Forjado a Fuego HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/227916
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Dra Lee HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: La Dra Lee HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/376518
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Voz Kids HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: La Voz Kids HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/378207
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Los cazadores de mitos HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Los cazadores de mitos HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/227921
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Los gemelos reforman dos veces "Celebrity" HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Los gemelos reforman dos veces "Celebrity" HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/443628
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Madres adolescentes HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Madres adolescentes HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/377890
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Mayday Catástrofes Aéreas HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Mayday Catástrofes Aéreas HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/376513
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Menuda es mi Suegra HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Menuda es mi Suegra HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/463337
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Patrulla Fronteriza (España) HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Patrulla Fronteriza (España) HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/357186
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Pesadilla en la Cocina HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Pesadilla en la Cocina HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/377891
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Policías en Acción HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Policías en Acción HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/227917
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Quien vive ahi HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Quien vive ahi HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/227920
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Reforma con Karen y Mina HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Reforma con Karen y Mina HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/449750
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Restaurante Imposible HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Restaurante Imposible HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/443582
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Super Tacaños HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Super Tacaños HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/451897
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Una medium en casa HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Una medium en casa HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/400808
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Victoria's Secret Fashion Show HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Victoria's Secret Fashion Show HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/782298
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Wild Frank HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "TV Show"",ES: Wild Frank HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/160612
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Netflix Acción FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Netflix Acción FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/802531
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Netflix Comedia FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Netflix Comedia FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/803409
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Netflix Fantasia FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Netflix Fantasia FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804970
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Netflix Fiestas Navideñas FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Netflix Fiestas Navideñas FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/802791
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Netflix Sci-Fi FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Netflix Sci-Fi FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804383
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Nicolas Cage FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Nicolas Cage FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/809279
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Nicole Kidman FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Nicole Kidman FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/809580
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Richard Gere FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Richard Gere FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/815455
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Robert de Niro FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Robert de Niro FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/815456
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Robert Redford FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Robert Redford FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/815457
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Robin Williams FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Robin Williams FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/813280
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Sean Connery FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Sean Connery FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/813281
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Tom Cruise FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Tom Cruise FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/817785
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Tom Hanks FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Cinema Premium"",ES: Tom Hanks FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/817786
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Dr House HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Drama"",ES: Dr House HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/984293
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Biblia Series HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Drama"",ES: La Biblia Series HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/227943
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Barbapapa 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Barbapapa 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/234417
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Ben Y Holly 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Ben Y Holly 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/24468
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Bluey 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Bluey 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/710405
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Caballeros del Zodiaco Asgard HD (74-99) 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Caballeros del Zodiaco Asgard HD (74-99) 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/102073
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Caballeros del Zodiaco Hades HD (115-145) 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Caballeros del Zodiaco Hades HD (115-145) 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/102164
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/102081
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Caballeros del Zodiaco Santuario HD (41-73) 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Caballeros del Zodiaco Santuario HD (41-73) 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/102071
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/101827
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Charlie en Villacolores HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Charlie en Villacolores HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804346
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Dragon Ball Super Saga Batalla de los Dioses HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Dragon Ball Super Saga Batalla de los Dioses HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/805682
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Dragon Ball Super Saga Resurrección de Freezer HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Dragon Ball Super Saga Resurrección de Freezer HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/805683
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Dragon Ball Super Saga Torneo del Poder HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Dragon Ball Super Saga Torneo del Poder HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/805733
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Dragon Ball Super Saga Trunks del Futuro HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Dragon Ball Super Saga Trunks del Futuro HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/805732
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Dragon Ball Super Torneo de Champa HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Dragon Ball Super Torneo de Champa HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/805731
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Amanecer de los Croods HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: El Amanecer de los Croods HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/802542
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Autobús Mágico vuelve a Despegar HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: El Autobús Mágico vuelve a Despegar HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804345
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Bebé Jefazo (Vuelta al curro) 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: El Bebé Jefazo (Vuelta al curro) 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/49475
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Show de los Looney Tunes 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: El Show de los Looney Tunes 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250556
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Fabulas de Disney 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Fabulas de Disney 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/40941
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Firebuds 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Firebuds 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/741851
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Futurama HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Futurama HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/40861
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Garfield y amigos 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Garfield y amigos 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250555
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Heroes Mitologicos 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Heroes Mitologicos 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/119700
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Johnny Test 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Johnny Test 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250554
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Kid-E-Cats HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Kid-E-Cats HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/376383
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Kim Possible HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Kim Possible HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/93722
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Kung Fu Panda El caballero del Dragon (ES)" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Kung Fu Panda El caballero del Dragon (ES)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/711116
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Princesa Sofia HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: La Princesa Sofia HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/463340
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Las Leyendas HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Las Leyendas HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804372
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Lego Friends 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Lego Friends 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/767653
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Lilo y Stitch HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Lilo y Stitch HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/94452
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Los Simpsons HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Los Simpsons HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/40866
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Los Simpsons La casa-árbol del terror HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Los Simpsons La casa-árbol del terror HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/93705
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Los Simpsons Temp 1-5 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Los Simpsons Temp 1-5 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/33121
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Los Vengadores Los héroes más poderosos del planeta 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Los Vengadores Los héroes más poderosos del planeta 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/766392
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Padre de Familia HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Padre de Familia HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/33123
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Patrulla Canina 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Patrulla Canina 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/41447
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Robozuna HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Robozuna HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804374
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: South Park HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: South Park HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/357185
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Super Wings 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Super Wings 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/49421
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Teen Titans Go! 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Teen Titans Go! 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250551
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Teletubbies 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Teletubbies 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/653699
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Vaca y Pollito 24h" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Vaca y Pollito 24h
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/49418
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Wabbit 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Wabbit 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/61025
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Zak Storm 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Caricaturas"",ES: Zak Storm 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/250553
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: 9-1-1 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: 9-1-1 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/711117
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Amor diabólico HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: Amor diabólico HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/452621
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Castle HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: Castle HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/796950
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Crimenes en la Red HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: Crimenes en la Red HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/452253
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: CSI Las Vegas HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: CSI Las Vegas HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/233949
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Caso HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: El Caso HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/311180
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: FBI HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: FBI HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/445357
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Revista People Investiga HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: La Revista People Investiga HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/463335
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Revista People Investiga Las Sectas HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: La Revista People Investiga Las Sectas HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/463334
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Los Peores Compañeros del Mundo HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: Los Peores Compañeros del Mundo HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/802303
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Mindhunter HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: Mindhunter HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/630948
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Misterios sin Resolver 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: Misterios sin Resolver 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/710995
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: NCIS Los Angeles HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: NCIS Los Angeles HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/233946
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: NCIS Navy Investigación Criminal) HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: NCIS Navy Investigación Criminal) HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/233948
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: NCIS Nueva Orleans HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Crimen"",ES: NCIS Nueva Orleans HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/233947
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El juego del Calamar HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Accion"",ES: El juego del Calamar HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/444415
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Juego del Calamar Reality Show 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Accion"",ES: El Juego del Calamar Reality Show 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/710406
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Entrevias HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Accion"",ES: Entrevias HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/802318
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Casa de Papel 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Accion"",ES: La Casa de Papel 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/710408
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Casa de Papel Berlin 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Accion"",ES: La Casa de Papel Berlin 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/711115
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Casa de Papel Korea 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Accion"",ES: La Casa de Papel Korea 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/711114
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Purga HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Accion"",ES: La Purga HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/575533
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Peaky Blinders 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Accion"",ES: Peaky Blinders 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/710409
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: El Principe de Bel Air HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Comedia"",ES: El Principe de Bel Air HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/40927
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: La Que se Avecina 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Comedia"",ES: La Que se Avecina 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/25139
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Malcolm el de en medio 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Comedia"",ES: Malcolm el de en medio 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/766393
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Merlina HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Comedia"",ES: Merlina HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/802302
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Pippi Calzaslargas 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Comedia"",ES: Pippi Calzaslargas 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/60758
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Acierta o Muere HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Documentales / Guerras / Tecnologias"",ES: Acierta o Muere HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/378208
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Titanes de la Ingenieria HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Documentales / Guerras / Tecnologias"",ES: Titanes de la Ingenieria HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/452251
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Expedientes X SD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Sci-Fi"",ES: Expedientes X SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/102860
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Fallout HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Sci-Fi"",ES: Fallout HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804375
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Loki 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Sci-Fi"",ES: Loki 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/711120
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Los Anillos de Poder HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Sci-Fi"",ES: Los Anillos de Poder HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/445767
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Resident Evil 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Sci-Fi"",ES: Resident Evil 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/710407
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Stranger Things HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Sci-Fi"",ES: Stranger Things HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/444414
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: The Boys HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Sci-Fi"",ES: The Boys HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/802541
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Una Serie de Eventos Desafortunados HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Sci-Fi"",ES: Una Serie de Eventos Desafortunados HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804373
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Willow 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Sci-Fi"",ES: Willow 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/711118
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Xena La Princesa Guerrera 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Sci-Fi"",ES: Xena La Princesa Guerrera 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/61026
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Relatos japoneses de lo macabro 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Relatos japoneses de lo macabro 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1155540
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Lo que vi 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Lo que vi 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1155543
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Alienigenas en Alaska HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Alienigenas en Alaska HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/463338
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Black Summer HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Black Summer HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804105
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Buscadores de fantasmas HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Buscadores de fantasmas HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/443709
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Cuando los muertos hablan HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Cuando los muertos hablan HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/452619
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Cuarto Milenio HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Cuarto Milenio HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/212951
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Destino Terror HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Destino Terror HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/463339
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Estamos Muertos HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Estamos Muertos HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/444413
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Expedición X HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Expedición X HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/451898
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Historias de Terror 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Historias de Terror 24H HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/767642
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Origen HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Origen HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804384
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: OVNI HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: OVNI HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/452622
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Paranormal HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Paranormal HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/804275
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Testigos de lo Paranormal HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Paranormal / OVNI / Conspiraciones / Terror"",ES: Testigos de lo Paranormal HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/443627
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: WWE HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Deportes"",ES: WWE HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/630937
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: UFC HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Deportes"",ES: UFC HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/631641
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES: Capitanes del Mundo HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="EU| España 24H "Deportes"",ES: Capitanes del Mundo HD 24H
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/786198
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNLaLiga.es" tvg-name="SP: ES: Dazn La Liga 1 SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 1 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402279
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNLaLiga.es" tvg-name="SP: ES: Dazn La Liga 1 HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 1 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/441217
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn La Liga 1 HD (Opción 2)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 1 HD (Opción 2)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823328
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn La Liga 1 HD (Opción 3)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 1 HD (Opción 3)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823341
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn La Liga 1 HD (Opción 4)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 1 HD (Opción 4)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823342
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNLaLiga.es" tvg-name="SP: ES: Dazn La Liga 1 FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 1 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402280
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn La Liga 1 FHD (Opción 2)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 1 FHD (Opción 2)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823343
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn La Liga 1 FHD (Opción 3)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 1 FHD (Opción 3)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823344
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn La Liga 1 FHD (Opción 4)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 1 FHD (Opción 4)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823345
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNLaLiga.es" tvg-name="SP: ES: Dazn La Liga 1 FHD (hevc)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 1 FHD (hevc)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632258
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNLaLiga2.es" tvg-name="SP: ES: Dazn La Liga 2 SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/evu0at1692970765.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 2 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402281
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNLaLiga2.es" tvg-name="SP: ES: Dazn La Liga 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/evu0at1692970765.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/543707
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNLaLiga2.es" tvg-name="SP: ES: Dazn La Liga 2 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/evu0at1692970765.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 2 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402282
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn La Liga 3 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 3 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/728847
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn La Liga 4 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn La Liga 4 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/728848
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN1.es" tvg-name="SP: ES: Dazn 1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 1 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/107099
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN1.es" tvg-name="SP: ES: Dazn 1 FHD (50 FPS)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 1 FHD (50 FPS)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/638186
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN1.es" tvg-name="SP: ES: Dazn 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 1 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/107140
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN1.es" tvg-name="SP: ES: Dazn 1 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 1 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/107139
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN2.es" tvg-name="SP: ES: Dazn 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 2 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/107100
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN2.es" tvg-name="SP: ES: Dazn 2 FHD (50 FPS)" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 2 FHD (50 FPS)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/638201
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN2.es" tvg-name="SP: ES: Dazn 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/115669
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN2.es" tvg-name="SP: ES: Dazn 2 SD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 2 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/107141
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn 3 FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/Dazn.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 3 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/115681
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN3.es" tvg-name="SP: ES: Dazn 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2524.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 3 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/115678
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN3.es" tvg-name="SP: ES: Dazn 3 SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/Dazn.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 3 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402288
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN4.es" tvg-name="SP: ES: Dazn 4 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 4 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/115688
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN4.es" tvg-name="SP: ES: Dazn 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 4 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/115686
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN4.es" tvg-name="SP: ES: Dazn 4 SD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 4 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402289
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn 1 BAR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 1 BAR SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669604
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn 1 BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 1 BAR HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669603
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn 1 BAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 1 BAR FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669602
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn 2 BAR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 2 BAR SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669607
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn 2 BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 2 BAR HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669606
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn 2 BAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn 2 BAR FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669605
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn Baloncesto SD" tvg-logo="http://plu4.conproloxi.space:80/images/vXe1UGcfrOZuB9xM17nzt3P8SRetRqketrGORHCu_OW4gxtLTd1GjU5WLL7srF_MxlVP6Ig7trbRcFCBQNNedg.jpg" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn Baloncesto SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1142869
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn Baloncesto HD" tvg-logo="http://plu4.conproloxi.space:80/images/vXe1UGcfrOZuB9xM17nzt3P8SRetRqketrGORHCu_OW4gxtLTd1GjU5WLL7srF_MxlVP6Ig7trbRcFCBQNNedg.jpg" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn Baloncesto HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1142868
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn Baloncesto FHD" tvg-logo="http://plu4.conproloxi.space:80/images/vXe1UGcfrOZuB9xM17nzt3P8SRetRqketrGORHCu_OW4gxtLTd1GjU5WLL7srF_MxlVP6Ig7trbRcFCBQNNedg.jpg" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn Baloncesto FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1142867
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn Baloncesto 2 SD" tvg-logo="http://plu4.conproloxi.space:80/images/vXe1UGcfrOZuB9xM17nzt3P8SRetRqketrGORHCu_OW4gxtLTd1GjU5WLL7srF_MxlVP6Ig7trbRcFCBQNNedg.jpg" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn Baloncesto 2 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1142872
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn Baloncesto 2 HD" tvg-logo="http://plu4.conproloxi.space:80/images/vXe1UGcfrOZuB9xM17nzt3P8SRetRqketrGORHCu_OW4gxtLTd1GjU5WLL7srF_MxlVP6Ig7trbRcFCBQNNedg.jpg" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn Baloncesto 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1142871
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn Baloncesto 2 FHD" tvg-logo="http://plu4.conproloxi.space:80/images/vXe1UGcfrOZuB9xM17nzt3P8SRetRqketrGORHCu_OW4gxtLTd1GjU5WLL7srF_MxlVP6Ig7trbRcFCBQNNedg.jpg" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn Baloncesto 2 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1142870
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn Baloncesto 3 SD" tvg-logo="http://plu4.conproloxi.space:80/images/vXe1UGcfrOZuB9xM17nzt3P8SRetRqketrGORHCu_OW4gxtLTd1GjU5WLL7srF_MxlVP6Ig7trbRcFCBQNNedg.jpg" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn Baloncesto 3 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1142875
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn Baloncesto 3 HD" tvg-logo="http://plu4.conproloxi.space:80/images/vXe1UGcfrOZuB9xM17nzt3P8SRetRqketrGORHCu_OW4gxtLTd1GjU5WLL7srF_MxlVP6Ig7trbRcFCBQNNedg.jpg" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn Baloncesto 3 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1142874
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn Baloncesto 3 FHD" tvg-logo="http://plu4.conproloxi.space:80/images/vXe1UGcfrOZuB9xM17nzt3P8SRetRqketrGORHCu_OW4gxtLTd1GjU5WLL7srF_MxlVP6Ig7trbRcFCBQNNedg.jpg" group-title="EU| España Deportes "DAZN"",SP: ES: Dazn Baloncesto 3 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1142873
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones (Movil)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones (Movil)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/310984
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones.es" tvg-name="SP: ES: M. Liga de Campeones SD (Fibra Multi-Comentaristas)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones SD (Fibra Multi-Comentaristas)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/401674
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones.es" tvg-name="SP: ES: M. Liga de Campeones HD (Fibra Multi-Comentaristas)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones HD (Fibra Multi-Comentaristas)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/407839
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones HD (Opción 2)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones HD (Opción 2)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/821792
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones HD (Opción 3)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones HD (Opción 3)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/821793
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones HD (Opción 4)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones HD (Opción 4)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/821818
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones.es" tvg-name="SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/401609
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (Opción 2)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones FHD (Opción 2)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/821686
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (Opción 3)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones FHD (Opción 3)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/821688
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (Opción 4)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones FHD (Opción 4)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/821819
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones.es" tvg-name="SP: ES: M. Liga de Campeones FHD (HEVC)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones FHD (HEVC)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/647642
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones.es" tvg-name="SP: ES: M. Liga de Campeones FHD (Orange)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones FHD (Orange)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/664111
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones2.es" tvg-name="SP: ES: M. Liga de Campeones 2 SD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 2 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/123
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones2.es" tvg-name="SP: ES: M. Liga de Campeones 2 HD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 2 HD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/583972
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones2.es" tvg-name="SP: ES: M. Liga de Campeones 2 FHD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 2 FHD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/85956
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 2 FHD (Opción 2) (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 2 FHD (Opción 2) (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1058341
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones3.es" tvg-name="SP: ES: M. Liga de Campeones 3 SD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 3 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/124
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones3.es" tvg-name="SP: ES: M. Liga de Campeones 3 HD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 3 HD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/583974
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 3 FHD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 3 FHD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/85957
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones4.es" tvg-name="SP: ES: M. Liga de Campeones 4 SD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 4 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/583977
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 4 HD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 4 HD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1047633
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones4.es" tvg-name="SP: ES: M. Liga de Campeones 4 FHD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 4 FHD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/125
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones5.es" tvg-name="SP: ES: M. Liga de Campeones 5 (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_5.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 5 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/583981
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones6.es" tvg-name="SP: ES: M. Liga de Campeones 6 (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 6 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones7.es" tvg-name="SP: ES: M. Liga de Campeones 7 (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_7.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 7 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/128
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LigadeCampeones8.es" tvg-name="SP: ES: M. Liga de Campeones 8 (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_8.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 8 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/129
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 9 (Solo Eventos)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/09/1_0_1_760B_408_1_C00000_0_0_0-1.png" group-title="EU| España Deportes "Liga de Campeones"",SP: ES: M. Liga de Campeones 9 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1058344
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaUHD.es" tvg-name="SP: ES: M. LaLiga SD (Fibra Multi-Comentaristas)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga SD (Fibra Multi-Comentaristas)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402277
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaUHD.es" tvg-name="SP: ES: M. LaLiga HD (Fibra Multi-Comentaristas)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga HD (Fibra Multi-Comentaristas)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3061
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga HD (Opción 2)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga HD (Opción 2)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823514
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga HD (Opción 3)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga HD (Opción 3)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823515
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga HD (Opción 4)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga HD (Opción 4)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823516
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaUHD.es" tvg-name="SP: ES: M. LaLiga FHD (Fibra Multi-Comentaristas)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga FHD (Fibra Multi-Comentaristas)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402278
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga FHD (Opción 2)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga FHD (Opción 2)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823517
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga FHD (Opción 3)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga FHD (Opción 3)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823518
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga FHD (Opción 4)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga FHD (Opción 4)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/823519
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga FHD (10MB)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga FHD (10MB)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/835322
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga FHD (10MB) (Orange)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga FHD (10MB) (Orange)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/835319
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaTV2.es" tvg-name="SP: ES: M. LaLiga 2 SD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 2 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/114
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNLaLiga2.es" tvg-name="SP: ES: M. LaLiga 2 FHD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 2 FHD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/60379
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaTV3.es" tvg-name="SP: ES: M. LaLiga 3 FHD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_3.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 3 FHD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/60380
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaTV3.es" tvg-name="SP: ES: M. LaLiga 3 SD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 3 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/115
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaTV4.es" tvg-name="SP: ES: M. LaLiga 4 FHD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_4.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 4 FHD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/126148
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaTV4.es" tvg-name="SP: ES: M. LaLiga 4 SD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_4.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 4 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/126147
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaTV5.es" tvg-name="SP: ES: M. LaLiga 5 SD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_5.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 5 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/126149
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaTV6.es" tvg-name="SP: ES: M. LaLiga 6 SD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 6 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127862
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaTV7.es" tvg-name="SP: ES: M. LaLiga 7 SD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qlw1d81621074447.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 7 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127863
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga 8 SD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 8 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127864
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga 9 SD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/movistar-deportes.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 9 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/127865
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 01 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 01 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044191
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 02 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 02 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044192
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 03 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 03 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044193
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 04 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 04 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044194
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 05 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 05 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044195
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 06 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 06 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044196
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 07 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 07 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044197
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 08 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 08 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044198
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 09 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 09 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044199
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 10 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 10 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044200
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 11 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 11 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044201
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 12 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 12 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044202
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 13 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 13 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044203
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 14 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 14 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044204
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 15 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 15 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044205
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 16 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 16 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044206
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 17 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 17 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044207
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 18 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 18 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044208
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 19 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 19 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044209
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. LaLiga+ 20 (Eventos)" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga+ 20 (Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1044210
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaTV2.es" tvg-name="SP: ES: M. LaLiga 2 HD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/movistar-deportes.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 2 HD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1145379
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaTV3.es" tvg-name="SP: ES: M. LaLiga 3 HD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png" group-title="EU| España Deportes "LaLiga"",SP: ES: M. LaLiga 3 HD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/499511
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Liga Hypermotion 1 SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EU| España Deportes "Liga Hypermotion"",SP: ES: Liga Hypermotion 1 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/410038
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Liga Hypermotion 1 HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EU| España Deportes "Liga Hypermotion"",SP: ES: Liga Hypermotion 1 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/562859
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Liga Hypermotion 1 FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EU| España Deportes "Liga Hypermotion"",SP: ES: Liga Hypermotion 1 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402283
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Liga Hypermotion 2 SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EU| España Deportes "Liga Hypermotion"",SP: ES: Liga Hypermotion 2 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/410037
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Liga Hypermotion 2 HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EU| España Deportes "Liga Hypermotion"",SP: ES: Liga Hypermotion 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669762
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Liga Hypermotion 2 FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EU| España Deportes "Liga Hypermotion"",SP: ES: Liga Hypermotion 2 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402284
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Liga Hypermotion 3 SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EU| España Deportes "Liga Hypermotion"",SP: ES: Liga Hypermotion 3 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/446744
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Liga Hypermotion 3 HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EU| España Deportes "Liga Hypermotion"",SP: ES: Liga Hypermotion 3 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669763
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Liga Hypermotion 3 FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EU| España Deportes "Liga Hypermotion"",SP: ES: Liga Hypermotion 3 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/446745
+#EXTINF:-1 xm-ott="{ID}" tvg-id="MovistarPlus+.es" tvg-name="SP: ES: M. Plus 1 FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Plus.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Plus 1 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/139
+#EXTINF:-1 xm-ott="{ID}" tvg-id="MovistarPlus+.es" tvg-name="SP: ES: M. Plus 1 HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Plus.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Plus 1 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3050
+#EXTINF:-1 xm-ott="{ID}" tvg-id="MovistarPlus+.es" tvg-name="SP: ES: M. Plus 1 SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Plus.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Plus 1 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/138
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Betis TV" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/BetisTV.png" group-title="EU| España Deportes "Fútbol"",SP: ES: Betis TV
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669759
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: LaLiga BAR 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBA1.png" group-title="EU| España Deportes "Fútbol"",SP: ES: LaLiga BAR 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669595
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: LaLiga BAR 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBA2.png" group-title="EU| España Deportes "Fútbol"",SP: ES: LaLiga BAR 3 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669596
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: LaLiga BAR 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="EU| España Deportes "Fútbol"",SP: ES: LaLiga BAR 1 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669591
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes2.es" tvg-name="SP: ES: M. Deportes 2 FHD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/movistar-deportes.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes 2 FHD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/273592
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes2.es" tvg-name="SP: ES: M. Deportes 2 SD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/movistar-deportes.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes 2 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/230780
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes3.es" tvg-name="SP: ES: M. Deportes 3 FHD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/movistar-deportes.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes 3 FHD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/273594
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes3.es" tvg-name="SP: ES: M. Deportes 3 SD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/movistar-deportes.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes 3 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/273593
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes4.es" tvg-name="SP: ES: M. Deportes 4 FHD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Deportes.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes 4 FHD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/446753
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes4.es" tvg-name="SP: ES: M. Deportes 4 SD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Deportes.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes 4 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/446754
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes5.es" tvg-name="SP: ES: M. Deportes 5 FHD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Deportes.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes 5 FHD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/446755
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes5.es" tvg-name="SP: ES: M. Deportes 5 SD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Deportes.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes 5 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/446756
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes6.es" tvg-name="SP: ES: M. Deportes 6 SD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Deportes.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes 6 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/446757
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes7.es" tvg-name="SP: ES: M. Deportes 7 SD (Solo Eventos)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/M_Deportes.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes 7 SD (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/446758
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes.es" tvg-name="SP: ES: M. Deportes FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/142
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes.es" tvg-name="SP: ES: M. Deportes HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3064
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes.es" tvg-name="SP: ES: M. Deportes SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Deportes SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/141
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaUHD.es" tvg-name="SP: ES: M. LaLiga FHD (HEVC)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. LaLiga FHD (HEVC)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/667478
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+LaLigaUHD.es" tvg-name="SP: ES: M. LaLiga FHD (Orange)" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. LaLiga FHD (Orange)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/667477
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Plus 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Plus 2 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669599
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Plus 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Plus 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669600
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Plus 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png" group-title="EU| España Deportes "Fútbol"",SP: ES: M. Plus 2 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669601
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Real Madrid TV HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/Real_Madrid_Television.png" group-title="EU| España Deportes "Fútbol"",SP: ES: Real Madrid TV HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/63
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Real Madrid TV SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/Real_Madrid_Television.png" group-title="EU| España Deportes "Fútbol"",SP: ES: Real Madrid TV SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/27275
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Teledeporte.es" tvg-name="SP: ES: Teledeporte FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1024px-Teledeporte.svg.png" group-title="EU| España Deportes "Fútbol"",SP: ES: Teledeporte FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/27276
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Teledeporte.es" tvg-name="SP: ES: Teledeporte HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1024px-Teledeporte.svg.png" group-title="EU| España Deportes "Fútbol"",SP: ES: Teledeporte HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/562851
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Teledeporte.es" tvg-name="SP: ES: Teledeporte SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1024px-Teledeporte.svg.png" group-title="EU| España Deportes "Fútbol"",SP: ES: Teledeporte SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/78
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="► Copa del Rey ◄ Barcelona vs Real Madrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/250px-UEFA_Champions_League_logo.svg.png" group-title="EU| España Deportes "Copa del Rey"",► Copa del Rey ◄ Barcelona vs Real Madrid
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1144777
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="► Copa del Rey - Barcelona vs Real Madrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/250px-UEFA_Champions_League_logo.svg.png" group-title="EU| España Deportes "Copa del Rey"",► Copa del Rey - Barcelona vs Real Madrid
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1144778
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="► Copa del Rey ◄ Barcelona vs Real Madrid 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/250px-UEFA_Champions_League_logo.svg.png" group-title="EU| España Deportes "Copa del Rey"",► Copa del Rey ◄ Barcelona vs Real Madrid 02
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1144779
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="► Copa del Rey ◄ Barcelona vs Real Madrid 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/250px-UEFA_Champions_League_logo.svg.png" group-title="EU| España Deportes "Copa del Rey"",► Copa del Rey ◄ Barcelona vs Real Madrid 03
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1144780
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="► Copa del Rey ◄ Barcelona vs Athletic Club ►" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1208.png" group-title="EU| España Deportes "Copa del Rey"",► Copa del Rey ◄ Barcelona vs Athletic Club ►
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1144781
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNF1.es" tvg-name="SP: ES: Dazn F1 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="EU| España Deportes "F1/Moto"",SP: ES: Dazn F1 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/114522
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNF1.es" tvg-name="SP: ES: Dazn F1 HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/Dazn_F1.png" group-title="EU| España Deportes "F1/Moto"",SP: ES: Dazn F1 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/114523
+#EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNF1.es" tvg-name="SP: ES: Dazn F1 FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/Dazn_F1.png" group-title="EU| España Deportes "F1/Moto"",SP: ES: Dazn F1 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/114524
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Dazn F1 FHD HEVC "50 FPS"" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_deportes_futbol/Dazn_F1.png" group-title="EU| España Deportes "F1/Moto"",SP: ES: Dazn F1 FHD HEVC "50 FPS"
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669749
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: SKY GOLF" tvg-logo="" group-title="EU| España Deportes "Otros"",SP: ES: SKY GOLF
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1098605
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: #Vamos FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="EU| España Deportes "Otros"",SP: ES: #Vamos FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/91
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: #Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="EU| España Deportes "Otros"",SP: ES: #Vamos HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3065
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: #Vamos SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="EU| España Deportes "Otros"",SP: ES: #Vamos SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/90
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CazayPesca.es" tvg-name="SP: ES: Caza y Pesca HD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="EU| España Deportes "Otros"",SP: ES: Caza y Pesca HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3081
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CazayPesca.es" tvg-name="SP: ES: Caza y Pesca SD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="EU| España Deportes "Otros"",SP: ES: Caza y Pesca SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/14
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Cazavision.es" tvg-name="SP: ES: Cazavision FHD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="EU| España Deportes "Otros"",SP: ES: Cazavision FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/496211
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Cazavision.es" tvg-name="SP: ES: Cazavision SD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="EU| España Deportes "Otros"",SP: ES: Cazavision SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/9987
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: DBike FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/DBike.png" group-title="EU| España Deportes "Otros"",SP: ES: DBike FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669522
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ElToroTV.es" tvg-name="SP: ES: El Toro TV HD" tvg-logo="https://www.aircom.cat/wp-content/uploads/2021/11/Toro.png" group-title="EU| España Deportes "Otros"",SP: ES: El Toro TV HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/24154
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Eurosport1.es" tvg-name="SP: ES: Eurosport 1 FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Otros/Eurosport_1.png" group-title="EU| España Deportes "Otros"",SP: ES: Eurosport 1 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/163
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Eurosport1.es" tvg-name="SP: ES: Eurosport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="EU| España Deportes "Otros"",SP: ES: Eurosport 1 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3063
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Eurosport1.es" tvg-name="SP: ES: Eurosport 1 SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Otros/Eurosport_1.png" group-title="EU| España Deportes "Otros"",SP: ES: Eurosport 1 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402291
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Eurosport2.es" tvg-name="SP: ES: Eurosport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/2560px-Eurosport_2_Logo_%282011-2015%29.svg.png" group-title="EU| España Deportes "Otros"",SP: ES: Eurosport 2 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/27250
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Eurosport2.es" tvg-name="SP: ES: Eurosport 2 HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Otros/Eurosport_2.png" group-title="EU| España Deportes "Otros"",SP: ES: Eurosport 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/402292
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Eurosport1.es" tvg-name="SP: ES: Eurosport 2 SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Otros/Eurosport_2.png" group-title="EU| España Deportes "Otros"",SP: ES: Eurosport 2 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/164
+#EXTINF:-1 xm-ott="{ID}" tvg-id="GOL.es" tvg-name="SP: ES: GOL Play FHD" tvg-logo="https://download.logo.wine/logo/Gol_Transportes_A%C3%A9reos/Gol_Transportes_A%C3%A9reos-Logo.wine.png" group-title="EU| España Deportes "Otros"",SP: ES: GOL Play FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/97
+#EXTINF:-1 xm-ott="{ID}" tvg-id="GOL.es" tvg-name="SP: ES: GOL Play HD" tvg-logo="https://download.logo.wine/logo/Gol_Transportes_A%C3%A9reos/Gol_Transportes_A%C3%A9reos-Logo.wine.png" group-title="EU| España Deportes "Otros"",SP: ES: GOL Play HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/562853
+#EXTINF:-1 xm-ott="{ID}" tvg-id="GOL.es" tvg-name="SP: ES: GOL Play SD" tvg-logo="https://download.logo.wine/logo/Gol_Transportes_A%C3%A9reos/Gol_Transportes_A%C3%A9reos-Logo.wine.png" group-title="EU| España Deportes "Otros"",SP: ES: GOL Play SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/562854
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Ellas #V FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Otros/Ellas_V_por_M.png" group-title="EU| España Deportes "Otros"",SP: ES: M. Ellas #V FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/421563
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Ellas #V HD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Otros/Ellas_V_por_M.png" group-title="EU| España Deportes "Otros"",SP: ES: M. Ellas #V HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/583459
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Ellas #V SD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Otros/Ellas_V_por_M.png" group-title="EU| España Deportes "Otros"",SP: ES: M. Ellas #V SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/421546
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Golf 2 FHD" tvg-logo="" group-title="EU| España Deportes "Otros"",SP: ES: M. Golf 2 FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/696007
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Golf 2 HD" tvg-logo="" group-title="EU| España Deportes "Otros"",SP: ES: M. Golf 2 HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/696008
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: M. Golf 2 SD" tvg-logo="" group-title="EU| España Deportes "Otros"",SP: ES: M. Golf 2 SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/696009
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Golf.es" tvg-name="SP: ES: M. Golf FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png" group-title="EU| España Deportes "Otros"",SP: ES: M. Golf FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/119
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Golf.es" tvg-name="SP: ES: M. Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png" group-title="EU| España Deportes "Otros"",SP: ES: M. Golf HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3066
+#EXTINF:-1 xm-ott="{ID}" tvg-id="M+Golf.es" tvg-name="SP: ES: M. Golf SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png" group-title="EU| España Deportes "Otros"",SP: ES: M. Golf SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/120
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Mundotoro FHD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="EU| España Deportes "Otros"",SP: ES: Mundotoro FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/564576
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Mundotoro HD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="EU| España Deportes "Otros"",SP: ES: Mundotoro HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/557630
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Mundotoro SD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="EU| España Deportes "Otros"",SP: ES: Mundotoro SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/557629
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: My Padel FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Entretenimiento/MyPadel.png" group-title="EU| España Deportes "Otros"",SP: ES: My Padel FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669521
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Torole" tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" group-title="EU| España Deportes "Otros"",SP: ES: Torole
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/3040
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ElToroTV.es" tvg-name="SP: ES: Onetoro" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_Otros/Toros_TV.png" group-title="EU| España Deportes "Otros"",SP: ES: Onetoro
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/83
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 1° Federación SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MCOPA.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 1° Federación SD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1037231
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 1° Federación HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MCOPA.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 1° Federación HD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1037230
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 1° Federación FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MCOPA.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 1° Federación FHD
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/1037229
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 1 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 1 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632238
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 2 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 2 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632239
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 3 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 3 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632240
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 4 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 4 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632241
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 5 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 5 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632242
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 6 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 6 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632243
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 7 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 7 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632244
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 8 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 8 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632245
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 9 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 9 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632246
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 10 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 10 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632247
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 11 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 11 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632248
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 12 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 12 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632249
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 13 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 13 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632250
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 14 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 14 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632251
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 15 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 15 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632252
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 16 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 16 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632253
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 17 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 17 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632254
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 18 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 18 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632255
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 19 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 19 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632256
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: FEF TV 20 (Solo Eventos)" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: FEF TV 20 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/632257
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 2RFEF 1 (Solo Eventos)" tvg-logo="http://trastras.eu:2083/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFruy_kCs5YdpJZOrXRT2E8uwvQCCXdon8ja5jAr2qB38.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 2RFEF 1 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/663365
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 2RFEF 2 (Solo Eventos)" tvg-logo="http://trastras.eu:2083/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFruy_kCs5YdpJZOrXRT2E8uwvQCCXdon8ja5jAr2qB38.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 2RFEF 2 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/663366
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 2RFEF 3 (Solo Eventos)" tvg-logo="http://trastras.eu:2083/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFruy_kCs5YdpJZOrXRT2E8uwvQCCXdon8ja5jAr2qB38.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 2RFEF 3 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/663367
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 2RFEF 4 (Solo Eventos)" tvg-logo="http://trastras.eu:2083/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFruy_kCs5YdpJZOrXRT2E8uwvQCCXdon8ja5jAr2qB38.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 2RFEF 4 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/663368
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 2RFEF 5 (Solo Eventos)" tvg-logo="http://trastras.eu:2083/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFruy_kCs5YdpJZOrXRT2E8uwvQCCXdon8ja5jAr2qB38.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 2RFEF 5 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/663369
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 2RFEF 6 (Solo Eventos)" tvg-logo="http://trastras.eu:2083/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFruy_kCs5YdpJZOrXRT2E8uwvQCCXdon8ja5jAr2qB38.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 2RFEF 6 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/663370
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 2RFEF 7 (Solo Eventos)" tvg-logo="http://trastras.eu:2083/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFruy_kCs5YdpJZOrXRT2E8uwvQCCXdon8ja5jAr2qB38.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 2RFEF 7 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/663371
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 2RFEF 8 (Solo Eventos)" tvg-logo="http://trastras.eu:2083/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFruy_kCs5YdpJZOrXRT2E8uwvQCCXdon8ja5jAr2qB38.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 2RFEF 8 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/663372
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 2RFEF 9 (Solo Eventos)" tvg-logo="http://trastras.eu:2083/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFruy_kCs5YdpJZOrXRT2E8uwvQCCXdon8ja5jAr2qB38.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 2RFEF 9 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/663373
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: 2RFEF 10 (Solo Eventos)" tvg-logo="http://trastras.eu:2083/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFruy_kCs5YdpJZOrXRT2E8uwvQCCXdon8ja5jAr2qB38.png" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: 2RFEF 10 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/663374
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Futsal TV 1 (Solo Eventos)" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Futsal TV 1 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669581
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Futsal TV 2 (Solo Eventos)" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Futsal TV 2 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669582
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Futsal TV 3 (Solo Eventos)" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Futsal TV 3 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669583
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Futsal TV 4 (Solo Eventos)" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Futsal TV 4 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669584
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Futsal TV 5 (Solo Eventos)" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Futsal TV 5 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/669585
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 1 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 1 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665876
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 2 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 2 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665877
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 3 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 3 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665878
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 4 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 4 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665879
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 5 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 5 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665880
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 6 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 6 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665881
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 7 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 7 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665882
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 8 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 8 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665883
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 9 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 9 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665884
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 10 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 10 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665885
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 11 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 11 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665886
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 12 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 12 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665887
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 13 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 13 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665888
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 14 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 14 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665889
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: ES: Football Club Evento 15 (Solo Eventos)" tvg-logo="" group-title="EU| España Deportes "FEF 1ª y 2ª Division - Football"",SP: ES: Football Club Evento 15 (Solo Eventos)
+http://tvgolatino.com:80/SoniaFritz/nbtnPg8uAT/665890
